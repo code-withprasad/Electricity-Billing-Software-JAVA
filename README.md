@@ -12,8 +12,7 @@ add customer bill generation, and customer database management, Pay bils , updat
 3) CHECK DEPOSITE DETILS.
 4) CALCULATE BILL.
 
-# ===================================================================================================================================================================
-
+# ====================================
 # CUSTOMER ROLE.
 
 1) UPDATE INFORMATION.
@@ -22,14 +21,14 @@ add customer bill generation, and customer database management, Pay bils , updat
 4) CHECK BILL DETAILS.
 5) GENERATE BILLS.
 
-# ===================================================================================================================================================================
+# ====================================
 
 # TECHNOLOGY USED IN THIS PROJECT ARE AS FOLLOW......
 # LAGUAGE - CORE JAVA. (AWT AND SWING)
 # DATABASE - MySQL.
 # CODE EDITOR - APACHE NETBEANS.
 
-# ==================================================================================================================================================================
+# ====================================
 
 # OUTPUTS OF PROJECT.....
 
@@ -73,6 +72,6 @@ add customer bill generation, and customer database management, Pay bils , updat
 
 [ELECTRICITY BILLING SOFTWARE DATABASE.txt](https://github.com/code-withprasad/Electricity-Billing-Software-JAVA/files/11980590/ELECTRICITY.BILLING.SOFTWARE.DATABASE.txt)
 
-# =========================================================================== END ===================================================================================
+# =============== END ================
 
 
