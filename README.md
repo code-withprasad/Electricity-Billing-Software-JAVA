@@ -1,7 +1,7 @@
 # Electricity-Billing-Software-JAVA PROJECT.
 
 
-# ABOUT THSI PROJECT.  
+# ABOUT THIS PROJECT.  
  
 An electricity billing system in Java is a program that calculates and generates bills for electricity consumption. It includes features like meter units, 
 add customer bill generation, and customer database management, Pay bils , update information  facilitating efficient billing processes for electricity providers.
